@@ -17,7 +17,7 @@ Ever wondered how powerful your PC really is? This benchmarking tool puts your s
 ## 📥 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/denischipirliu/BenchmarkApp
+   git clone https://github.com/denischipirliu/BenchmarkApp.git
    ```
 2. Open the solution in **Visual Studio**.
 3. Build the project in **Release mode**.
