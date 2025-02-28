@@ -1,0 +1,49 @@
+# Build and binary files
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.map
+*.lib
+*.exp
+*.ipdb
+*.iobj
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.ncb
+*.log
+*.tlog
+*.lastbuildstate
+
+# CMake files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+cmake_install.cmake
+Makefile
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# Rider/ReSharper
+.idea/
+*.DotSettings.user
+
+# Windows-specific
+Thumbs.db
+desktop.ini
